@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+# Jack Pet Supplies Store
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Demonstration
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+https://github.com/vishwaikon/Jack-Pet-Supplies-Store/assets/75526380/682634dd-5d3e-4690-8645-f5d0b58d0b46
+
+
+
+## Style Guide
+
+
+## User Persona
