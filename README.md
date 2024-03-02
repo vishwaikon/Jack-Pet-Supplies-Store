@@ -1,7 +1,7 @@
 # Jack Pet Supplies Store
 
 ## Project Setup
-npm install
+npm install<br/>
 npm run dev
 
 json-server --watch db.json : To start the json server
