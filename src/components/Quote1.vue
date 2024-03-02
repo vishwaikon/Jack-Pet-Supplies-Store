@@ -31,7 +31,7 @@ export default {
       axios
         .get('https://api.api-ninjas.com/v1/quotes', {
           headers: {
-            'X-Api-Key': 'RnhooT7Vc4WMbxk8W5T9ow==WXMaDYNb6yjMI4ew',
+            'X-Api-Key': '',
           },
           params: {
             category: 'faith',
