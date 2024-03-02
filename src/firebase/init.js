@@ -7,12 +7,12 @@ import {getAuth} from "firebase/auth";
 
 //  web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCY6bIwU0nLDB2GZch3xrvP0ZFy5oNfV3I",
-  authDomain: "petstore-ac1ea.firebaseapp.com",
-  projectId: "petstore-ac1ea",
-  storageBucket: "petstore-ac1ea.appspot.com",
-  messagingSenderId: "512678686304",
-  appId: "1:512678686304:web:fa34a6a6fcc53d1d7a1d05"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
