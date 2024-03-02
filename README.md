@@ -8,7 +8,10 @@ json-server --watch db.json : To start the json server
 ## Demonstration
 
 
-https://github.com/vishwaikon/Jack-Pet-Supplies-Store/assets/75526380/682634dd-5d3e-4690-8645-f5d0b58d0b46
+https://github.com/vishwaikon/Jack-Pet-Supplies-Store/assets/75526380/b592b982-0a42-4d0b-904b-22194ad171e6
+
+
+
 
 
 
